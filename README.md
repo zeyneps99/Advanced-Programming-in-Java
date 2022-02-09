@@ -1,2 +1,2 @@
-# AdvancedProgramminginJava
+# AdvancedProgramming in Java
 COMP132
